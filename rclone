@@ -10,7 +10,7 @@
 ### END INIT INFO
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
  
-REMOTE='aliyunpan:/'
+REMOTE='ali:/'
 LOCAL='/mnt/sda3/alidrive'
 CONFIG='/root/.config/rclone/rclone.conf'
 DEMO='rclone'
